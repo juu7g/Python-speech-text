@@ -17,7 +17,6 @@ import mimetypes
 mimetypes.add_type('text/markdown', '.md')  # Windows環境では存在しないので追加
 sys.path.append(os.path.dirname(sys.executable))
 import settings_speech_text as settings
-import my_icon_s
 
 # mpg123をインストールした場所
 path_mpg123 = settings.path_mpg123
@@ -275,7 +274,6 @@ class App(TkinterDnD.Tk):
         コンストラクタ：操作画面クラスと制御クラスを作成し関連付ける
         """
         super().__init__()
-        self.iconphoto(True, my_icon_s.get_photo_image4icon())
 
         self.title("貼って読み上げ")      # タイトル
         my_frame = MyFrame(self)       # MyFrameクラス(V)のインスタンス作成

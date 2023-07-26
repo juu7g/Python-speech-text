@@ -82,6 +82,7 @@ URL やパス、テキストを貼り付けると内容を音声で読み上げます。
 - mpg123 ライブラリの取得と設定  
 	- 取得  
 		次のリンクから mpd123 ライブラリをダウンロードしてください  
+		(Windows 64 bit OS の場合)
 		- [Index of /download/win64/1.31.3 <i class="blogicon-external"></i>](https://www.mpg123.de/download/win64/1.31.3/)  
 			`mpg123-1.31.3-x86-64.zip` をダウンロードしてください
 			解凍して使用します

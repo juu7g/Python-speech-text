@@ -94,7 +94,7 @@ URL やパス、テキストを貼り付けると内容を音声で読み上げます。
 
 ## プログラムの説明サイト Program description site
 
-- 準備中[gTTSとmpg123で作るテキスト読み上げアプリ【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/text-to-speech/speech-text)  
+- [gTTSとmpg123で作るテキスト読み上げアプリ【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/text-to-speech/speech-text)  
   
 ## 作者 Authors
 juu7g

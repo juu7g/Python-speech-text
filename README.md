@@ -26,6 +26,8 @@ URL やパス、テキストを貼り付けると内容を音声で読み上げます。
 - requests 2.31.0
 - tkinterdnd2 0.3.0
 - gTTS 2.3.2
+- www_juu7g 1.0.0
+- アイコン用の画像ファイルが必要です
 
 ## 使い方 Usage
 
@@ -77,7 +79,8 @@ URL やパス、テキストを貼り付けると内容を音声で読み上げます。
 - Python ライブラリ  
 	- pip install gTTS
 	- pip install mpg123  
-	- pip install requests
+	- pip install tkinterdnd2
+	- pip install git+https://github.com/juu7g/Python-www.git
 
 - mpg123 ライブラリの取得と設定  
 	- 取得  
